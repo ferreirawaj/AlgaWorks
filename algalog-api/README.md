@@ -1,1 +1,1 @@
-# Algalog-API: uma API para controle de entregas de pedidos
+# Algalog-API: uma API REST para controle de entregas de pedidos
