@@ -1,3 +1,3 @@
 # AlgaWorks
 
-Projetos desenvolvidos através de cursos da AlgaWorks
+Projetos desenvolvidos através de cursos da AlgaWorks.
