@@ -2,7 +2,7 @@
 
 Para reproduzir este projeto em sua máquina, siga os passos abaixo:
 
-1. Prepare o seu ambiente de desenvolvimento:
+1. Prepare o seu ambiente de desenvolvimento: [manual](https://github.com/ferreirawaj/AlgaWorks/blob/master/algalog-api/Preparando%20o%20ambiente.pdf);
 2. Faça um git clone deste repositório para sua máquina, e importe a pasta do projeto (algalog-api) em sua IDE (Recomendo utilizar o Spring Tool Suite).
 
 Agora é só testar, modificar, incrementar e etc.
