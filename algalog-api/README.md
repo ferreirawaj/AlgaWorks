@@ -10,5 +10,5 @@ Agora é só testar, modificar, incrementar e etc.
 ## Documentação da API
 Documentação gerada pelo Postman: https://documenter.getpostman.com/view/18009183/UVJbGHQf
 
-Documentação gerada pelo Swagger: http://localhost:8080/swagger-ui.html
+Documentação gerada pelo Swagger: http://localhost:8080/swagger-ui.html (Para esta opção é necessário compilar o projeto em sua máquina).
 
